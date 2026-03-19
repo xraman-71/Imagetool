@@ -1,0 +1,15 @@
+{
+  "name": "PixelTools",
+  "short_name": "PixelTools",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#3B82F6",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

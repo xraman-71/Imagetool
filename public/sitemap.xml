@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://pixeltools.online/</loc><priority>1.0</priority></url>
+  <url><loc>https://pixeltools.online/compressor</loc><priority>0.9</priority></url>
+  <url><loc>https://pixeltools.online/resizer</loc><priority>0.9</priority></url>
+  <url><loc>https://pixeltools.online/converter</loc><priority>0.9</priority></url>
+  <url><loc>https://pixeltools.online/cropper</loc><priority>0.8</priority></url>
+  <url><loc>https://pixeltools.online/rotate-flip</loc><priority>0.8</priority></url>
+  <url><loc>https://pixeltools.online/filters</loc><priority>0.8</priority></url>
+  <url><loc>https://pixeltools.online/dpi-changer</loc><priority>0.7</priority></url>
+  <url><loc>https://pixeltools.online/color-picker</loc><priority>0.7</priority></url>
+  <url><loc>https://pixeltools.online/watermark</loc><priority>0.7</priority></url>
+  <url><loc>https://pixeltools.online/rounder</loc><priority>0.7</priority></url>
+  <url><loc>https://pixeltools.online/base64</loc><priority>0.6</priority></url>
+  <url><loc>https://pixeltools.online/exif-viewer</loc><priority>0.6</priority></url>
+  <url><loc>https://pixeltools.online/how-to-use</loc><priority>0.5</priority></url>
+  <url><loc>https://pixeltools.online/faq</loc><priority>0.5</priority></url>
+</urlset>
