@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { Box } from 'lucide-react';
+import { Box, Twitter, Globe, ExternalLink, Zap } from 'lucide-react';
 
 const Footer = () => {
   return (
@@ -44,6 +44,20 @@ const Footer = () => {
             <p className="text-text-muted text-xs leading-relaxed max-w-[200px]">
               Compress, resize, crop, convert, and edit images online for free — no signup, no uploads, no installs. Your photos never leave your browser.
             </p>
+            <div className="flex items-center gap-3 pt-4">
+              <a href="https://www.x.com/xrverse71" target="_blank" rel="noopener noreferrer" className="w-8 h-8 rounded-full border border-border-light flex items-center justify-center text-text-muted hover:text-text hover:border-text transition-all duration-300" title="X (Twitter)">
+                <Twitter size={14} />
+              </a>
+              <a href="https://www.producthunt.com/@amanxr71" target="_blank" rel="noopener noreferrer" className="w-8 h-8 rounded-full border border-border-light flex items-center justify-center text-text-muted hover:text-text hover:border-text transition-all duration-300" title="Product Hunt">
+                <Zap size={14} />
+              </a>
+              <a href="https://www.vercel.com/xraman71" target="_blank" rel="noopener noreferrer" className="w-8 h-8 rounded-full border border-border-light flex items-center justify-center text-text-muted hover:text-text hover:border-text transition-all duration-300" title="Vercel">
+                <Globe size={14} />
+              </a>
+              <a href="https://amanxr.gumroad.com" target="_blank" rel="noopener noreferrer" className="w-8 h-8 rounded-full border border-border-light flex items-center justify-center text-text-muted hover:text-text hover:border-text transition-all duration-300" title="Gumroad">
+                <ExternalLink size={14} />
+              </a>
+            </div>
           </div>
 
           {/* Basic Tools */}
